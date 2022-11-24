@@ -7,16 +7,11 @@
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  /* background-image: url("../images/bg-pattern-bottom.svg");
-
-background-position: -5% -5%;
-background-repeat: no-repeat;
-background-image: url("../images/bg-pattern-bottom.svg"); */
 }
 
 .circle img {
   position: absolute;
-  left: -10%;
+  left: -0%;
   top: -10%;
   overflow: hidden;
   width: 978px;
